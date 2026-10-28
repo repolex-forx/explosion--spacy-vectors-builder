@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacy-vectors-builder",
+  "versions": [
+    {
+      "commit": "f5247248d76e8358704e7c72c1c139229b51db7b",
+      "parsed_at": "2026-10-28T11:39:56.399845+00:00",
+      "filetree": "filetree/f5247248d76e8358704e7c72c1c139229b51db7b.nq.gz",
+      "blobs": [
+        "blob/5fc3c9560ed016ade3b9ff127288935d7b9b5183.nq.gz",
+        "blob/d0174ed1b56ee45e812e45cc0b360f46954bf8c5.nq.gz",
+        "blob/94912e6e1fa855d4b343cf087350659f9faf831c.nq.gz",
+        "blob/cc3f130282bad31d489b464c739ee8b4bf8c9772.nq.gz",
+        "blob/4199bba93437645659d76d6fbc46dc3dad4d2836.nq.gz",
+        "blob/638ef40f5a4030a9f900c89b8a017a39855210f3.nq.gz",
+        "blob/fc6897cc00df5abc6ac07d4edf98f593812ec240.nq.gz",
+        "blob/e7d0b3017756f86ffe69cf58bbc8a5cd759297a0.nq.gz",
+        "blob/e4ea88ae5532c586094edbc82da4be9a5b36a8c6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
