@@ -1,0 +1,7 @@
+[2026-10-28T11:41:02Z] === AST ITERATION 1 START | repo=explosion/spacy-vectors-builder sha=f5247248 ===
+[2026-10-28T11:41:02Z] [iter=1] PHASE START: ast repo=explosion/spacy-vectors-builder sha=f5247248
+[2026-10-28T11:41:02Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T11:41:02Z] [iter=1] AST chunks built count=1 triples=4958
+[2026-10-28T11:41:02Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f5247248d76e8358704e7c72c1c139229b51db7b/.complete
+[2026-10-28T11:41:02Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-28T11:41:03Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
