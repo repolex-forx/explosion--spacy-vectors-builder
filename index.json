@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-vectors-builder",
+  "versions": [
+    {
+      "commit": "f5247248d76e8358704e7c72c1c139229b51db7b",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:41:56.805933+00:00"
+    }
+  ]
+}
