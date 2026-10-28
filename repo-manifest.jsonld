@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-vectors-builder/commit/f5247248d76e8358704e7c72c1c139229b51db7b",
       "git:hexsha": "f5247248d76e8358704e7c72c1c139229b51db7b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:41:56.805513+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-vectors-builder/commit/8ff747e4c1156c0c5868815fa397d7a79f891086",
